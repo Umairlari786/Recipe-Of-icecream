@@ -6,9 +6,8 @@ document.body.style.padding = "10px";
 function update(bgcolor,textcolor){
 
     html.style.backgroundColor = bgcolor;
-    html.style.color =textcolor;
-    //uuuu
-    //jai ho
+    // html.style.color =textcolor;
+    
 }
 
 select.addEventListener("change", ()=>
