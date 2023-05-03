@@ -8,6 +8,7 @@ function update(bgcolor,textcolor){
     html.style.backgroundColor = bgcolor;
     html.style.color =textcolor;
     //uuuu
+    //jai ho
 }
 
 select.addEventListener("change", ()=>
